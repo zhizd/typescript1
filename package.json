@@ -1,0 +1,25 @@
+{
+  "name": "ts-ko",
+  "version": "1.0.0",
+  "description": "ko of typescript demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhizd/study.git"
+  },
+  "keywords": [
+    "zhizd123"
+  ],
+  "author": "zhizd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhizd/study/issues"
+  },
+  "homepage": "https://github.com/zhizd/study#readme",
+  "dependencies": {
+    "knockout": "^3.5.0"
+  }
+}
